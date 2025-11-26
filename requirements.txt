@@ -1,8 +1,4 @@
-io
-math
-typing
-Tuple
-numpy 
+streamlit>=1.22
+numpy
 pandas
-matplotlib.pyplot 
-streamlit
+matplotlib
